@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="assets/banner.jpg" alt="banner" width="100%" />
+	<img src="https://github.com/DRK-ITC-FuL/.github/blob/main/profile/assets/banner.jpg" alt="banner" width="100%" />
 	<h1>Forschung und Lehre </h1>
 	<p>Eine Abteilung des <a href="https://itc.drk.de/" target="_blank">Informations- und Technologie Centers</a> des <a href="https://www.drk-rlp.de/" target="_blank">Deutschen Roten Kreuz Rheinland Pfalz e.V.</a></p>
 </div>
